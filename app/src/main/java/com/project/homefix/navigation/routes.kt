@@ -1,0 +1,15 @@
+package com.project.homefix.navigation
+
+const val ROUTE_SPLASH = "splash"
+const val ROUTE_LOGIN = "login"
+const val ROUTE_REGISTER = "register"
+const val ROUTE_CUSTDASHBOARD = "custdashboard"
+const val ROUTE_BOOKINGS = "bookings"
+const val ROUTE_PROVIDERDS = "providerds"
+const val ROUTE_BOOKSERVICE="bookservice"
+const val ROUTE_PROADDSERVICE="provideraddservice"
+const val ROUTE_MYSERVICES="myservices"
+const val ROUTE_CUSTPROFILE = "customerprofile"
+const val ROUTE_PROVIDERPROFILE = "providerprofile"
+const val ROUTE_SERVICEDETAILS = "servicedetails"
+const val ROUTE_PROVIDER_BOOKING_SUMMARY = "providerbookingsummary"
